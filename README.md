@@ -1,6 +1,8 @@
 # 🚴 WorldTourRidersDatabase
 
 ## 🚀 Overview
+![Main Preview](assets/img/main.png)
+
 **WorldTourRidersDatabase** is an SQLite-based project designed to manage professional cyclists and their teams affiliated with the International Cycling Union (UCI). The database enables structured data storage, querying, and management of riders and their associations with World Tour teams.
 
 ## 🎯 Purpose
