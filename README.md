@@ -24,7 +24,7 @@
 ## 📐 Database Structure & Design
 | 🏗️ UML Modeling | 🔗 Table Associations | 📊 Query Optimization |
 |-----------|-----------|-----------|
-| ![UML Diagram](assets/img/uml_diagram.png) | ![Table Relationships](assets/img/table_relationships.png) | ![Query Execution](assets/img/query_execution.png) |
+| <img src="assets/img/uml_diagram" width="300" height="300"> | <img src="assets/img/table_relationships" width="300" height="300"> | <img src="assets/img/query_execution" width="300" height="300"> |
 
 ## 🌟 License
 This project is open-source. Feel free to use, modify, and contribute! 🚀
