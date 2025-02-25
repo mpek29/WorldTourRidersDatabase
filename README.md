@@ -22,9 +22,7 @@
 | 📜 **UML Diagrams** | Visualize table relationships for better understanding |
 
 ## 📐 Database Structure & Design
-| 🏗️ UML Modeling | 🔗 Table Associations | 📊 Query Optimization |
-|-----------|-----------|-----------|
-| <img src="assets/img/uml_diagram.png"> | <img src="assets/img/table_relationships.png"> | <img src="assets/img/query_execution.png"> |
+<img src="assets/img/uml_diagram.png">
 
 ## 🌟 License
 This project is open-source. Feel free to use, modify, and contribute! 🚀
